@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 name
 randFactor
 baseHealth
+=======
+name
+randFactor
+baseHealth
+>>>>>>> branch 'main' of https://github.com/larterloo/RPGRelease.git
 baseDamage
