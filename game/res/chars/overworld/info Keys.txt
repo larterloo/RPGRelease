@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 name
 posX
 posY
 dimX
-=======
-name
-posX
-posY
-dimX
->>>>>>> branch 'main' of https://github.com/larterloo/RPGRelease.git
 dimY
