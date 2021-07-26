@@ -1,4 +1,0 @@
-name
-randFactor
-baseHealth
-baseDamage

@@ -1,5 +1,0 @@
-name
-posX
-posY
-dimX
-dimY
