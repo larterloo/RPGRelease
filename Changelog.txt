@@ -1,4 +1,15 @@
-<<<<<<< HEAD
+Version 0.0.0.24 (20/8/21)
+Added:
+- An inventory (that's currently useless, but can open with TAB)
+- The name of the person in each dialogue box
+
+Changed:
+- A whole bunch of git stuffs
+- Moved some of the character identification to an id basis
+- Buttons to be a bit nicer (under the hood)
+
+
+
 Version 0.0.0.23 (26/7/21)
 Added:
 - Additional dialogues to the healing for yes & no options
