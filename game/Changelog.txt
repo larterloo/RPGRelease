@@ -1,3 +1,16 @@
+Version 0.0.0.27 (27/8/21)
+Added:
+- Each item now has its own weight
+- The inventory has a weight limit
+- Information about the inventory and the current item
+- Give item cheat
+
+Changed:
+- Moved character/item names to lang files
+- Console window now scales with window size
+
+
+
 Version 0.0.0.26 (26/8/21)
 Changed:
 - Made the option boxes slightly nicer
